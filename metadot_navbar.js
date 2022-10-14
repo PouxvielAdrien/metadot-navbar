@@ -1,3 +1,4 @@
+console.log("coucou");
 metadot_navbar.innerHTML = `
 
 <style>
@@ -162,4 +163,3 @@ font-size:13px;
 
 
 // getElementById("metadot_navbar").innerHtml("hello");
-console.log("coucou");
